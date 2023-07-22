@@ -1,0 +1,35 @@
+.success-message{
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    width: 50%;
+}
+
+/* *{
+  background-color: #4caf50;
+} */
+
+.input-group {
+    margin-bottom: 10px;
+  }
+
+  textarea label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .input-group input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+
+  .content{
+    margin-top: 50px;
+    margin-left: 15%;
+  }
+
+  
